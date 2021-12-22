@@ -1,0 +1,29 @@
+.main {
+  margin-top: 10px;
+}
+
+.choice-selected {
+  border: 2px #20397c solid;
+  background-color: #20397c;
+  color: white;
+}
+
+.question-header {
+  min-height: 100px;
+}
+
+.question-text {
+  background-color: #e2e3e5;
+}
+
+.middle {
+  overflow: auto;
+}
+.choice:hover {
+  background-color: #becfff;
+  cursor: pointer;
+}
+
+.choice:active {
+  border: 2px #20397c solid;
+}
